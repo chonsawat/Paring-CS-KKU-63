@@ -1,0 +1,20 @@
+""" Logic """
+# tmp = sophomore_name.copy()
+# paring_list = []
+
+# for i in range(len(df_63)):
+#     if i % len(sophomore_name):
+#         name, tmp = get_pair(tmp)
+#         paring_list.append(name)
+#         print("IF",len(tmp))
+#     elif i % len(sophomore_name) == 0:
+#         tmp = sophomore_name.copy()
+#         name, tmp = get_pair(tmp)
+#         paring_list.append(name)
+#         print("ELSE IF", len(tmp))
+#     else:
+#         print("ELSE")
+
+
+""" Logic """
+0%5,1%5,3%5,5%5,6%5
